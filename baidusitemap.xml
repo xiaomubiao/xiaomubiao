@@ -5,6 +5,26 @@
     
   <url>
     <loc>http://yoursite.com/title.html</loc>
+    <lastmod>2016-11-20T04:04:25.454Z</lastmod>
+    <data>
+        <display>
+        <title>开始折腾</title>
+        <pubTime>2016-11-20T03:54:48.000Z</pubTime>
+        
+        <tag>hexo,马马虎虎</tag>
+         
+         
+           
+             
+              <breadCrumb title="风花雪月" url="http://yoursite.com/categories/%E9%A3%8E%E8%8A%B1%E9%9B%AA%E6%9C%88/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/title.html</loc>
     <lastmod>2016-11-19T10:49:46.635Z</lastmod>
     <data>
         <display>
