@@ -17,8 +17,8 @@
   
   <entry>
     <title>开始折腾</title>
-    <link href="http://yoursite.com/title.html"/>
-    <id>http://yoursite.com/title.html</id>
+    <link href="http://yoursite.com/title"/>
+    <id>http://yoursite.com/title</id>
     <published>2016-11-20T03:54:48.000Z</published>
     <updated>2016-11-20T04:12:06.230Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/title.html"/>
-    <id>http://yoursite.com/title.html</id>
+    <link href="http://yoursite.com/title"/>
+    <id>http://yoursite.com/title</id>
     <published>2016-11-19T10:49:46.634Z</published>
     <updated>2016-11-19T10:49:46.635Z</updated>
     
