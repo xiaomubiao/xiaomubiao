@@ -5,18 +5,23 @@
     
   <url>
     <loc>http://yoursite.com/title.html</loc>
-    <lastmod>2016-11-20T04:04:25.454Z</lastmod>
+    <lastmod>2016-11-20T04:12:06.230Z</lastmod>
     <data>
         <display>
         <title>开始折腾</title>
         <pubTime>2016-11-20T03:54:48.000Z</pubTime>
         
-        <tag>hexo,马马虎虎</tag>
+        <tag>测试1</tag>
+         
+        <tag>测试二</tag>
          
          
            
              
-              <breadCrumb title="风花雪月" url="http://yoursite.com/categories/%E9%A3%8E%E8%8A%B1%E9%9B%AA%E6%9C%88/"/>
+              <breadCrumb title="hexo" url="http://yoursite.com/categories/hexo/"/>
+          
+             
+              <breadCrumb title="免费空间" url="http://yoursite.com/categories/hexo/%E5%85%8D%E8%B4%B9%E7%A9%BA%E9%97%B4/"/>
           
         </display>
     </data>
